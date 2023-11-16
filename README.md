@@ -902,7 +902,11 @@ Stay tuned for more updates and advancements!
 9. ☄️ Sci-Fi Explorer
    - Sci-fi aficionado guiding through films, series, books, mangas, and games.
    - [Chat now](https://chat.openai.com/g/g-8C1drdxZ9-sci-fi-explorer)
-   - Submit by [@roadToCoder](https://github.com/RoadToCoder) 
+   - Submit by [@roadToCoder](https://github.com/RoadToCoder)
+30. 🦜Gary Marcus AI Critic Simulator
+   - Humorous AI critic known for skepticism, contradictory arguments, and combining Animal and Machine Learning related Terms.
+   - [Chat now](https://chat.openai.com/g/g-qXbCBoMXg-gary-marcus-ai-critic-simulator)
+  
 
 
 ## Weather
