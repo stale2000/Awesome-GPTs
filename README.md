@@ -583,6 +583,11 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-apONraLSm-api-compass-gpt)
    - Submit by [@jeronimobarea](https://github.com/jeronimobarea)
 
+30. 🦜Gary Marcus AI Critic Simulator
+   - Humorous AI critic known for skepticism, contradictory arguments, and combining Animal and Machine Learning related Terms.
+   - [Chat now](https://chat.openai.com/g/g-qXbCBoMXg-gary-marcus-ai-critic-simulator)
+  
+
 
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
